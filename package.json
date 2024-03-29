@@ -1,0 +1,26 @@
+{
+  "name": "icns-convertor",
+  "version": "1.0.0",
+  "description": "image to icns convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satheeq/icns-convertor.git"
+  },
+  "keywords": [
+    "icns",
+    "ico"
+  ],
+  "author": "satheeq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satheeq/icns-convertor/issues"
+  },
+  "homepage": "https://github.com/satheeq/icns-convertor#readme",
+  "dependencies": {
+    "image-to-icon-converter": "^1.0.1"
+  }
+}
